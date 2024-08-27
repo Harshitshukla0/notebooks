@@ -1,0 +1,66 @@
+pyor_project_id,coingecko_asset_id,pyor_project_name,max_supply,cleaned_max_supply
+bitcoin,bitcoin,Bitcoin,21000000,21000000
+ethereum,ethereum,Ethereum,,
+pancakeswap,pancakeswap-token,PancakeSwap,750000000,750000000
+dodo,dodo,Dodoswap,1000000000,1000000000
+quickswap,quickswap,Quickswap,1000000000,1000000000
+curve,curve-dao-token,Curve,3303030299,3303030299
+level_finance,level,Level Finance,50000000,50000000
+kyberswap,kyber-network-crystal,Kyberswap,252301550,252301550
+sushiswap,sushi,Sushiswap,250000000,250000000
+uniswap,uniswap,Uniswap,1000000000,1000000000
+apex_protocol,apex-token-2,ApeX Protocol,"1,00,00,00,000",1000000000
+apollox,apollox-2,ApolloX,"10,00,00,00,000",10000000000
+dydx,dydx,dYdX,"1,00,00,00,000",1000000000
+el_dorado_exchange,el-dorado-exchange-arb,El Dorado Exchange,"1,51,50,000",15150000
+gains_network,gains-network,Gains Network,"3,37,60,612",33760612
+gmx,gmx,GMX,"1,32,50,000",13250000
+hmx,hmx,HMX,"1,00,00,000",10000000
+level_finance,level,Level Finance,"5,00,00,000",50000000
+mux_protocol,mcdex,MUX Protocol,"48,03,143",4803143
+pancakeswap,pancakeswap-token,PancakeSwap,750000000,750000000
+pika,pika-protocol,Pika,"10,00,00,000",100000000
+vela_exchange,vela-token,Vela Exchange,"5,00,00,000",50000000
+aark_digital,,Aark Digital,,
+hyperliquid,,Hyperliquid,,
+polynomial_trade,,Polynomial Trade,,
+satori,,Satori,,
+synfutures_v1,,Synfutures V1,,
+synthetix,havven,Synthetix,"1,81,80,00,000",1818000000
+vertex_protocol,vertex-protocol,Vertex Protocol,"1,00,00,00,000",1000000000
+kwenta,kwenta,Kwenta,∞,
+aptos,aptos,Aptos,∞,
+aurora,aurora-near,Aurora,"1,00,00,00,000",1000000000
+base,,Base,,
+bitcoin,bitcoin,Bitcoin,"2,10,00,000",21000000
+cardano,cardano,Cardano,"45,00,00,00,000",45000000000
+celo,celo,Celo,"1,00,00,00,000",1000000000
+cosmos,cosmos,Cosmos,∞,
+fantom,fantom,Fantom,"3,17,50,00,000",3175000000
+flow,flow,Flow,"1,47,25,82,009",1472582009
+fuse,fuse-network-token,Fuse,"36,05,48,931",360548931
+gnosis,gnosis,Gnosis,"30,00,000",3000000
+linea,,Linea,,
+near,near,NEAR,∞,
+osmosis,osmosis,Osmosis,"1,00,00,00,000",1000000000
+scroll,,Scroll,,
+sei,sei-network,Sei,"10,00,00,00,000",10000000000
+solana,solana,Solana,∞,
+stacks,blockstack,Stacks,"1,81,80,00,000",1818000000
+sui,sui,Sui,"10,00,00,00,000",10000000000
+thorchain,thorchain,Thorchain,"50,00,00,000",500000000
+tron,tron,Tron,∞,
+ethereum,ethereum,Ethereum,∞,
+binance_smart_chain,binancecoin,Binance Smart Chain,"20,00,00,000",200000000
+polygon,matic-network,Polygon,"10,00,00,00,000",10000000000
+arbitrum,arbitrum,Arbitrum,"10,00,00,00,000",10000000000
+avalanche,avalanche-2,Avalanche,"72,00,00,000",720000000
+optimism,optimism,Optimism,"4,29,49,67,296",4294967296
+zk_evm,,zkEVM,,
+stark_net,,StarkNet,,
+zk_sync,,zkSync,,
+compound,compound-governance-token,Compound,"1,00,00,000",10000000
+aave,aave,Aave,"1,60,00,000",16000000
+radiant,radiant,Radiant,"21,00,00,00,000",21000000000
+venus,venus,Venus,"3,00,00,000",30000000
+axelar,axelar,Axelar,,
